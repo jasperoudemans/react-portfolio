@@ -16,7 +16,7 @@ const Nav = () => {
         </li>
         <li>
           <a
-            href="/downloadable/jasperOUDEMANS-resume.pdf"
+            href="/react-portfolio/downloadable/jasperOUDEMANS-resume.pdf"
             download="jasperOUDEMANS-resume"
             id="resume"
           >

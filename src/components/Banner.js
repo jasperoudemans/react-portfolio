@@ -9,7 +9,7 @@ const Banner = () => {
 
       <div className="profile">
         <img
-          src="/images/profile-picture.jpeg"
+          src="/react-portfolio/images/profile-picture.jpeg"
           alt="My face"
           className="profile-pic"
         />

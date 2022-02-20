@@ -38,7 +38,7 @@ const Home = () => {
         <div class="images">
           <MainProject
             title="Travel Planner"
-            src="/images/travelPlanner.png"
+            src="/react-portfolio/images/travelPlanner.png"
             alt="Screenshot of travel planner app"
             href="https://github.com/jasperoudemans/travel-planner"
           />
@@ -46,14 +46,14 @@ const Home = () => {
           <div className="images2">
             <Project
               title="Restaurant Review App"
-              src="/images/restaurantReview.png"
+              src="/react-portfolio/images/restaurantReview.png"
               alt="Screenshot of restaurant review app"
               href="https://github.com/jasperoudemans/baby-yelp"
             />
 
             <Project
               title="HTML Generator (CLI)"
-              src="/images/HTMLGenerator.png"
+              src="/react-portfolio/images/HTMLGenerator.png"
               alt="Project3"
               href="https://github.com/jasperoudemans/team_profile_generator"
             />
@@ -62,14 +62,14 @@ const Home = () => {
           <div className="images2">
             <Project
               title="Text Editor (PWA)"
-              src="/images/textEditor.png"
+              src="/react-portfolio/images/textEditor.png"
               alt="Screenshot of text editor app"
               href="https://github.com/jasperoudemans/textEditor"
             />
 
             <Project
               title="Social Network API"
-              src="/images/socialNetworkAPI.png"
+              src="/react-portfolio/images/socialNetworkAPI.png"
               alt="Screeshot of social network api"
               href="https://github.com/jasperoudemans/social-media-backend-API"
             />
