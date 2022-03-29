@@ -8,26 +8,15 @@ const Home = () => {
       <ProfileSection title="About Me" id="aboutMe">
         <div class="aboutMe">
           <p>
-            I am a current student at the coding bootcamp of the University of
-            Arizona delivered by Trilogy Education. Before this, I was a high
-            school and middle school teacher. I taught French to the
-            high-schoolers and Latin to the middle-schoolers. It was my language
-            aptitude that first made me wonder if I would be good at
+            I am a recent graduate from the Full Stack Web Development bootcamp
+            of the University of Arizona delivered by Trilogy Education. Before
+            this, I was a high school and middle school teacher. I taught French
+            to the high-schoolers and Latin to the middle-schoolers. It was my
+            language aptitude that first made me wonder if I would be good at
             programming.
           </p>
           <br />
           <br />
-          <p>
-            Lorem Ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
-            <br />
-            <br />
-          </p>
         </div>
       </ProfileSection>
 
