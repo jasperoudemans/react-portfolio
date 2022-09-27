@@ -8,11 +8,11 @@ const Home = () => {
       <ProfileSection title="About Me" id="aboutMe">
         <div class="aboutMe">
           <p>
-            Recent coding bootcamp graduate with newly developed 
-            skills in full stack web development seeking first 
-            opportunity in the field. An international and multicultural 
-            background makes me highly adaptable, mentally flexible, 
-            and allows me to quickly integrate a new team, company, or environment.
+            Recent coding bootcamp graduate with newly developed skills in full
+            stack web development seeking first opportunity in the field. An
+            international and multicultural background makes me highly
+            adaptable, mentally flexible, and allows me to quickly integrate a
+            new team, company, or environment.
           </p>
           <br />
           <br />
