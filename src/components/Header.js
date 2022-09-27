@@ -1,12 +1,18 @@
-import Banner from "./Banner";
 import Nav from "./Nav";
 
 const Header = () => {
   return (
     <header>
-      <h1 className="mainHeader">Jasper Oudemans</h1>
+      <div className="profile">
+        <img
+          src="/react-portfolio/images/profile-picture.jpeg"
+          alt="My face"
+          className="profile-pic"
+        />
+        <h1 className="mainHeader">Jasper Oudemans</h1>
+      </div>
+
       <Nav />
-      <Banner />
     </header>
   );
 };
