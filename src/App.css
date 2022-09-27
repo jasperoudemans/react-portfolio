@@ -87,6 +87,7 @@ ul li a:hover {
 
 .profileSection {
   display: flex;
+  flex-wrap: wrap;
   margin-top: 2rem;
   margin-right: 0.5rem;
 }
@@ -115,6 +116,7 @@ ul li a:hover {
   margin-left: 2%;
   margin-right: 5%;
   padding-top: 0.5%;
+  min-width: 22rem;
 }
 
 .work-section {
@@ -231,15 +233,20 @@ footer aside {
 .label a {
   text-decoration: none;
   color: var(--orange);
+  transition: color 0.25s;
 }
 
-@media screen and (max-width: 768px) {
+.label a:hover {
+  color: var(--grey);
+}
+
+@media screen and (max-width: 700px) {
   .aboutMeSection {
     flex-direction: column;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 700px) {
   .work-section {
     flex-direction: column;
   }
@@ -254,7 +261,7 @@ footer aside {
   margin-top: 2rem;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 700px) {
   .footer-section {
     flex-direction: column;
   }
