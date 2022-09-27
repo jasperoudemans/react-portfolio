@@ -1,5 +1,5 @@
 :root {
-  --grey: rgb(79, 81, 82);
+  --grey: #2f4855;
   --turq: rgb(120, 193, 224);
   --background-color: rgb(224, 212, 206);
   --orange: rgb(250, 215, 183);
@@ -56,6 +56,7 @@ ul li a {
   padding-bottom: 2px;
   padding-left: 4px;
   padding-right: 4px;
+  transition: 0.25s;
 }
 
 ul li a:hover {
@@ -237,6 +238,11 @@ footer aside {
   color: var(--orange);
 }
 
+.label a {
+  text-decoration: none;
+  color: var(--orange);
+}
+
 @media screen and (max-width: 768px) {
   .aboutMeSection {
     flex-direction: column;
@@ -252,6 +258,7 @@ footer aside {
 .footer {
   display: flex;
   background-color: var(--grey);
+  color: var(--turq);
   justify-content: center;
   align-items: center;
   margin-top: 2rem;
