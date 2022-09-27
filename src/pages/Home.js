@@ -8,12 +8,11 @@ const Home = () => {
       <ProfileSection title="About Me" id="aboutMe">
         <div class="aboutMe">
           <p>
-            I am a recent graduate from the Full Stack Web Development bootcamp
-            of the University of Arizona delivered by Trilogy Education. Before
-            this, I was a high school and middle school teacher. I taught French
-            to the high-schoolers and Latin to the middle-schoolers. It was my
-            language aptitude that first made me wonder if I would be good at
-            programming.
+            Recent coding bootcamp graduate with newly developed 
+            skills in full stack web development seeking first 
+            opportunity in the field. An international and multicultural 
+            background makes me highly adaptable, mentally flexible, 
+            and allows me to quickly integrate a new team, company, or environment.
           </p>
           <br />
           <br />
