@@ -28,7 +28,7 @@ const Home = () => {
             title="toySRC Toy Exchange Platform"
             src="/react-portfolio/images/toySRC-screenshot.png"
             alt="Screenshot of toySRC app"
-            href="https://toy-src.herokuapp.com/"
+            href="https://github.com/jasperoudemans/toy-src"
           />
 
           <div className="images2">
