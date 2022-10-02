@@ -25,10 +25,10 @@ const Home = () => {
       <ProfileSection title="Projects" id="work">
         <div class="images">
           <MainProject
-            title="Travel Planner"
-            src="/react-portfolio/images/travelPlanner.png"
-            alt="Screenshot of travel planner app"
-            href="https://github.com/jasperoudemans/travel-planner"
+            title="toySRC Toy Exchange Platform"
+            src="/react-portfolio/images/toySRC-screenshot.png"
+            alt="Screenshot of toySRC app"
+            href="https://toy-src.herokuapp.com/"
           />
 
           <div className="images2">
