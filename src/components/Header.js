@@ -5,7 +5,7 @@ const Header = () => {
     <header>
       <div className="profile">
         <img
-          src="/react-portfolio/images/profile-picture.jpeg"
+          src="/images/profile-picture.jpeg"
           alt="My face"
           className="profile-pic"
         />
