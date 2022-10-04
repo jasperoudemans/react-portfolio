@@ -12,6 +12,8 @@ The top banner has a circle-cropped photo of me absolutely positioned on it.
 
 ![Screen Shot 2022-02-20 at 9 48 36 AM](https://user-images.githubusercontent.com/88591791/154853955-37754a98-a4b4-4edc-abea-022861d51f70.png)
 
-## Link to deployed application:
+## Links to deployed application:
+
+https://jasper-oudemans.vercel.app/
 
 https://jasperoudemans.github.io/react-portfolio/

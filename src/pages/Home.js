@@ -9,10 +9,10 @@ const Home = () => {
         <div class="aboutMe">
           <p>
             Recent coding bootcamp graduate with newly developed skills in full
-            stack web development seeking first opportunity in the field. An
-            international and multicultural background makes me highly
-            adaptable, mentally flexible, and allows me to quickly integrate a
-            new team, company, or environment.
+            stack web development seeking first opportunity in the field. I have
+            an international and multicultural background having lived for 12
+            years in Asia and 10 years in Europe. My education in visual arts
+            helps me design an attractive user experience.
           </p>
           <br />
           <br />
