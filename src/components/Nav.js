@@ -16,8 +16,8 @@ const Nav = () => {
         </li>
         <li>
           <a
-            href="/downloadable/JasperOudemans-Resume.pdf"
-            download="JasperOudemans-Resume.pdf"
+            href="/downloadable/Bonk-Resume.pdf"
+            download="Bonk-Resume.pdf"
             id="resume"
           >
             Resume PDF
